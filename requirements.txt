@@ -1,0 +1,7 @@
+pandas
+sqlalchemy
+pymysql
+numpy
+graphviz
+gspread
+oauth2client
